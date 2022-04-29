@@ -134,7 +134,7 @@
   ```
   clusters = {
     "us" = { region = "us-east-1", vpc_cidr = "192.168.0.0/24" },
-    "ap" = { region = "ap-east-1", vpc_cidr = "192.168.100.0/24" },
+    "ap" = { region = "ap-southeast-2", vpc_cidr = "192.168.100.0/24" },
     "eu" = { region = "eu-central-1", vpc_cidr = "192.168.200.0/24" }
   }
   ```
